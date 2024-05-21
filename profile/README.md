@@ -4,7 +4,7 @@
 
 repo to feed IIIF-Manifests for Diarium Issues from ÖNB into Transkribus
 
-## wr-transkirbus-out
+## wr-transkribus-out
 
 repo to export and (up)convert transcribed Diarium issues from Transkribus
 
